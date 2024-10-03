@@ -53,6 +53,12 @@
 #### After unplugging the pluggable database we now drop the selected database:
 ![dropped](https://github.com/user-attachments/assets/a20d4a34-cd30-47d2-ac24-bacb0562f5e7)
 
+#### We opened an ORACLE ENTERPRISE MANAGER to help us acess the enterprise manager through the web:
+
+![dashboard 1](https://github.com/user-attachments/assets/babfd392-26a2-4b27-9079-9125fa31d344)
+
+![dashboard 2](https://github.com/user-attachments/assets/d37a1b64-be9f-4f25-b693-b7c3074cd315)
+
 
 
 
