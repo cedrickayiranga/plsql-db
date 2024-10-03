@@ -57,7 +57,8 @@
 
 ![dashboard 1](https://github.com/user-attachments/assets/babfd392-26a2-4b27-9079-9125fa31d344)
 
-![dashboard 2](https://github.com/user-attachments/assets/d37a1b64-be9f-4f25-b693-b7c3074cd315)
+![dashboard 2](https://github.com/user-attachments/assets/3b98a8a7-e670-4681-a389-d561be26fbd0)
+
 
 
 
