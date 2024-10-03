@@ -64,9 +64,3 @@
 
 
 
-![user creation](https://github.com/user-attachments/assets/ebc7e130-6d1f-4cee-b044-66e8f395500b)
-
-
-
-
-
