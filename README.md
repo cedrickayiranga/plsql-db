@@ -1,13 +1,23 @@
-# plsql-db
-In this file i created a pluggable database and also delete i will demonstrate this processes using pictures
-We begin with creating a pluggable database it has a PLSQL_CLASS2024DB as its name,it is shown in below picture:
+# Assignment1
+#### In this file i created a pluggable database and also delete i will demonstrate this processes using pictures
+
+#### We begin with creating a pluggable database it has a PLSQL_CLASS2024DB as its name,it is shown in below picture:
+
+
+
+
+
 
 ![pluggable db created](https://github.com/user-attachments/assets/e1b84b30-7011-4ae5-be32-6daf8778b8b8)
-It is succesfully created as shown in the below table:
+
+
+#### It is succesfully created as shown in the below table:
+
+
 
 ![table](https://github.com/user-attachments/assets/26ee89fc-328c-4769-92d7-78fd6e97234f)
 
-The query below shows that the pluggable database is mounted=not yet ready to use.
+#### The query below shows that the pluggable database is mounted=not yet ready to use.
 
 ![pluggable db created new](https://github.com/user-attachments/assets/7f92d5db-adb0-4aa8-8a5b-2b43982cf4b9)
 
