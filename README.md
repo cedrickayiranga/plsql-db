@@ -34,6 +34,7 @@
 
 #### After creation of a user, connection and PDB.
 #### Step 1 is to connect to the database to be deleted.
+![step 1 del](https://github.com/user-attachments/assets/4d8b9c6b-5b8f-44fd-8487-3ab4229d90ec)
 
 #### We now proceed with the steps of deleting another created PLUGGABLE DATABASE with the name KA_TO_DELETE_PDB:
 
@@ -42,17 +43,26 @@
 #### Now that its created we call the database using alter command in order to be used:
 
 ![alter delete pdb](https://github.com/user-attachments/assets/da92c642-4382-40d1-b8a7-608faf7499d9)
+### we now close the database before unplugging:
+
+![db closed](https://github.com/user-attachments/assets/d03df900-d3e9-4bfe-a879-d11c14375c76)
+
+#### we unplug the newly created database:
+![unplug](https://github.com/user-attachments/assets/7734f9b1-ca48-455c-ac04-2270de0cff0c)
+
+#### After unplugging the pluggable database we now drop the selected database:
+![dropped](https://github.com/user-attachments/assets/a20d4a34-cd30-47d2-ac24-bacb0562f5e7)
 
 
 ![path del](https://github.com/user-attachments/assets/3193a066-ed96-4378-bb5c-7c0375160c14)
 ![pluggable db created new](https://github.com/user-attachments/assets/d9cb63d5-4ddc-4290-a124-ac95140fe3de)
 ![pluggable db created](https://github.com/user-attachments/assets/295c3514-a174-4507-a1f7-1eb824e191d2)
-![step 1 del](https://github.com/user-attachments/assets/4d8b9c6b-5b8f-44fd-8487-3ab4229d90ec)
 
-![unplug](https://github.com/user-attachments/assets/7734f9b1-ca48-455c-ac04-2270de0cff0c)
+
+
 ![user creation](https://github.com/user-attachments/assets/ebc7e130-6d1f-4cee-b044-66e8f395500b)
 
-![db closed](https://github.com/user-attachments/assets/d03df900-d3e9-4bfe-a879-d11c14375c76)
 
 
-![dropped](https://github.com/user-attachments/assets/a20d4a34-cd30-47d2-ac24-bacb0562f5e7)
+
+
