@@ -54,9 +54,7 @@
 ![dropped](https://github.com/user-attachments/assets/a20d4a34-cd30-47d2-ac24-bacb0562f5e7)
 
 
-![path del](https://github.com/user-attachments/assets/3193a066-ed96-4378-bb5c-7c0375160c14)
-![pluggable db created new](https://github.com/user-attachments/assets/d9cb63d5-4ddc-4290-a124-ac95140fe3de)
-![pluggable db created](https://github.com/user-attachments/assets/295c3514-a174-4507-a1f7-1eb824e191d2)
+
 
 
 
